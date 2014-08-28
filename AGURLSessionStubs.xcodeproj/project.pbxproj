@@ -40,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		48ECBB2819AF5FF800B53059 /* HttpStubSample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HttpStubSample.playground; sourceTree = "<group>"; };
 		6F3C40A1197BCCD80072D66A /* AGURLSessionStubs.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AGURLSessionStubs.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F3C40A5197BCCD80072D66A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6F3C40A6197BCCD80072D66A /* AGURLSessionStubs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AGURLSessionStubs.h; sourceTree = "<group>"; };
@@ -73,6 +74,7 @@
 		6F3C4097197BCCD80072D66A = {
 			isa = PBXGroup;
 			children = (
+				48ECBB2819AF5FF800B53059 /* HttpStubSample.playground */,
 				6F3C40A3197BCCD80072D66A /* AGURLSessionStubs */,
 				6F3C40B0197BCCD80072D66A /* AGURLSessionStubsTests */,
 				6F3C40A2197BCCD80072D66A /* Products */,

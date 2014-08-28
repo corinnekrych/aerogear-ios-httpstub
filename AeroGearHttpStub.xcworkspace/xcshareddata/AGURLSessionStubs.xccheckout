@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E7A2205F-9732-4298-ADF4-C4739465568D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AGURLSessionStubs</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>442B062D66A236E976B90DE3EB5DBFBC7D391CCA</key>
+		<string>https://github.com/aerogear/aerogear-ios-httpstub.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AGURLSessionStubs.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>442B062D66A236E976B90DE3EB5DBFBC7D391CCA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/aerogear/aerogear-ios-httpstub.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>442B062D66A236E976B90DE3EB5DBFBC7D391CCA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>442B062D66A236E976B90DE3EB5DBFBC7D391CCA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>aerogear-ios-httpstub</string>
+		</dict>
+	</array>
+</dict>
+</plist>
